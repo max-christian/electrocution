@@ -1,5 +1,5 @@
-electrocution
-=============
+Makeymakey Electrocution
+========================
 
 Silly video installation using a Makeymakey and Javascript.
 
